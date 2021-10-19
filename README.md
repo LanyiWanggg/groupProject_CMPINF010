@@ -3,7 +3,9 @@
 ## Description
 
 Our program asks a user to input their name and the number of their birth day and month.<br>
-It then calculates and returns approximately how many days into the year their birthday is.
+It then calculates and returns approximately how many days until their next birthday. <br>
+If today is their birthday, it will inform the user and wish them a happy birthday. Otherwise, <br>
+it will inform them of the number of days until their next birthday.
 
 ### Group Members
 
