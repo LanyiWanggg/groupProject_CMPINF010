@@ -36,4 +36,4 @@ Contributions should be done in accordance with the code of conduct.
 
 [Lanyi Wang](https://github.com/LanyiWanggg) Email: law190@pitt.edu <br>
 [Trevor Bombalski](https://github.com/tjb144) Email: tjb144@pitt.edu <br>
-[Aleksandar Smith](https://github.com/alek-smith) Email: ads218@pitt.edu
+[Aleksandar Smith](https://github.com/alek-smith) Email: ads218@pitt.edu <br>
